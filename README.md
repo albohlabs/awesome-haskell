@@ -19,6 +19,7 @@ If you think a article/talk should be added, please create a new issue.
 - :speaker: [Data61 fp-course](https://www.youtube.com/watch?v=NzIZzvbplSM&list=PLly9WMAVMrayYo2c-1E_rIRwBXG_FbLBW) - Functional Programming Course 
 - [Functors, Applicatives, And Monads In Pictures](http://adit.io/posts/2013-04-17-functors,_applicatives,_and_monads_in_pictures.html)
 - [The wizard monoid](http://www.haskellforall.com/2018/02/the-wizard-monoid.html)
+- [Pragmatic Haskell](https://jappieklooster.nl/pragmatic-haskell-simple-servant-web-server.html)
 
 ## Advanced
 
