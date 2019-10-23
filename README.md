@@ -26,6 +26,7 @@ If you think a article/talk should be added, please create a new issue.
 - [Haskell Style Guide](https://kowainik.github.io/posts/2019-02-06-style-guide) - a collection of best-practices inspired by commercial and free open source Haskell libraries and applications
 - [Demystifying MonadBaseControl](https://lexi-lambda.github.io/blog/2019/09/07/demystifying-monadbasecontrol) - provide a complete survey of MonadBaseControl - how it works, how it’s designed, and how it can go wrong
 - [Generalized algebraic data types](https://en.wikibooks.org/wiki/Haskell/GADT) - learn why GADTs are useful and how to declare your own
+- [Introduction to Tagless Final](https://serokell.io/blog/tagless-final) - an introduction to tagless final encoding
 
 ### Monad Transformers
 
