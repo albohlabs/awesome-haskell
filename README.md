@@ -5,6 +5,7 @@ A curated list of amazingly awesome Haskell articles and talks for beginners.
 If you think a article/talk should be added, please create a new issue.
 
 - [Learning Haskell](https://wiki.haskell.org/Learning_Haskell) - places where you can go if you want to learn Haskell
+- [How to learn Haskell](https://github.com/bitemyapp/learnhaskell) - a recommended path for learning Haskell based on experience helping others
 
 ## Motivation
 
