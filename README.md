@@ -39,6 +39,7 @@ If you think a article/talk should be added, please create a new issue.
 
 - [Haskell Design Patterns: The Handle Pattern](https://jaspervdj.be/posts/2018-03-08-handle-pattern.html)
 - [Designing Testable Components](http://felixmulder.com/writing/2019/10/05/Designing-testable-components.html) 
+- [Functional architecture is Ports and Adapters](https://blog.ploeh.dk/2016/03/18/functional-architecture-is-ports-and-adapters/) Ports are your IO code and sit at the edge of the system. The core consist of pure functions.
 - [Three Layer Haskell Cake](https://www.parsonsmatt.org/2018/03/22/three_layer_haskell_cake.html) - application design architecture with roughly three layers
   - [holmusk/three-layer](https://github.com/Holmusk/three-layer) - Architecture of the Haskell web applications 
 
