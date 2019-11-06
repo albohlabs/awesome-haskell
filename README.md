@@ -15,6 +15,7 @@ If you think a article/talk should be added, please create a new issue.
 ## Base
 
 - [What I Wish I Knew When Learning Haskell](http://dev.stephendiehl.com/hask)
+- [An opinionated guide to Haskell in 2018](https://lexi-lambda.github.io/blog/2018/02/10/an-opinionated-guide-to-haskell-in-2018/) - overview of a few select parts of the Haskell workflow and the ecosystem
 - [Typeclassopedia](https://wiki.haskell.org/Typeclassopedia) - a starting point for the student of Haskell wishing to gain a firm grasp of its standard type classes
 - :speaker: [Data61 fp-course](https://www.youtube.com/watch?v=NzIZzvbplSM&list=PLly9WMAVMrayYo2c-1E_rIRwBXG_FbLBW) - Functional Programming Course 
 - [Functors, Applicatives, And Monads In Pictures](http://adit.io/posts/2013-04-17-functors,_applicatives,_and_monads_in_pictures.html)
