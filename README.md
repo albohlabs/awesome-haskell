@@ -41,6 +41,7 @@ If you think a article/talk should be added, please create a new issue.
 - [Haskell Design Patterns: The Handle Pattern](https://jaspervdj.be/posts/2018-03-08-handle-pattern.html)
 - [Designing Testable Components](http://felixmulder.com/writing/2019/10/05/Designing-testable-components.html) 
 - [Functional architecture is Ports and Adapters](https://blog.ploeh.dk/2016/03/18/functional-architecture-is-ports-and-adapters/) Ports are your IO code and sit at the edge of the system. The core consist of pure functions.
+- [The ReaderT Design Pattern](https://www.fpcomplete.com/blog/2017/06/readert-design-pattern) - large-scale application or library application design architecture
 - [Three Layer Haskell Cake](https://www.parsonsmatt.org/2018/03/22/three_layer_haskell_cake.html) - application design architecture with roughly three layers
   - [holmusk/three-layer](https://github.com/Holmusk/three-layer) - Architecture of the Haskell web applications 
 
@@ -49,6 +50,10 @@ If you think a article/talk should be added, please create a new issue.
 - [kowainik/issue-wanted](https://github.com/kowainik/issue-wanted) - web application follows _Three Layer Cake_ architecture pattern
   - [GSoC 2019 - Building A Web Application with Haskell](https://rashadg1030.github.io/rashad-blog/6.html)
   - [Guide to Implementing Custom Monadic Effects in Issue-Wanted](https://rashadg1030.github.io/rashad-blog/7.html)
+
+## Testing
+
+- [Mocking Effects using Constraints and Phantom Data Kinds](https://chrispenner.ca/posts/mock-effects-with-data-kinds) - writing multiple 'interpreters' for your monad stacks using mtl-style constraints
 
 ## Libraries
 
