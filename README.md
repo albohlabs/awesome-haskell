@@ -53,6 +53,7 @@ If you think a article/talk should be added, please create a new issue.
 
 ## Testing
 
+- [An example of state-based testing in Haskell](https://blog.ploeh.dk/2019/03/11/an-example-of-state-based-testing-in-haskell/) - ... with the State monad
 - [Mocking Effects using Constraints and Phantom Data Kinds](https://chrispenner.ca/posts/mock-effects-with-data-kinds) - writing multiple 'interpreters' for your monad stacks using mtl-style constraints
 
 ## Libraries
