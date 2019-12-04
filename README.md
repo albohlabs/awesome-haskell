@@ -34,6 +34,7 @@ If you think a article/talk should be added, please create a new issue.
 - [A Gentle Introduction to Monad Transformers](https://two-wrongs.com/a-gentle-introduction-to-monad-transformers)
 - :speaker: [Next Level MTL - George Wilson - BFPG 2016-06](https://www.youtube.com/watch?v=GZPup5Iuaqw)
 - [The State Monad: A Tutorial for the Confused?](http://brandon.si/code/the-state-monad-a-tutorial-for-the-confused/)
+- [State monad comes to help sequential pattern matching](https://kowainik.github.io/posts/2018-11-18-state-pattern-matching) - combine monadic effects of StateT and Either to parse a list of values
 - [Effectful Haskell: Reader, Transformers, Typeclasses](https://slpopejoy.github.io/posts/Effectful02.html)
 
 ## Design Patterns
