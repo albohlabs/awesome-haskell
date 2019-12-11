@@ -6,6 +6,7 @@ If you think a article/talk should be added, please create a new issue.
 
 - [Learning Haskell](https://wiki.haskell.org/Learning_Haskell) - places where you can go if you want to learn Haskell
 - [How to learn Haskell](https://github.com/bitemyapp/learnhaskell) - a recommended path for learning Haskell based on experience helping others
+- [A list of Haskell articles on good design, good testing](https://williamyaoh.com/posts/2019-11-24-design-and-testing-articles.html)
 
 ## Motivation
 
@@ -20,6 +21,7 @@ If you think a article/talk should be added, please create a new issue.
 - :speaker: [Data61 fp-course](https://www.youtube.com/watch?v=NzIZzvbplSM&list=PLly9WMAVMrayYo2c-1E_rIRwBXG_FbLBW) - Functional Programming Course 
 - [Functors, Applicatives, And Monads In Pictures](http://adit.io/posts/2013-04-17-functors,_applicatives,_and_monads_in_pictures.html)
 - [The wizard monoid](http://www.haskellforall.com/2018/02/the-wizard-monoid.html)
+- [Phantom type](https://wiki.haskell.org/Phantom_type)
 
 ## Advanced
 
