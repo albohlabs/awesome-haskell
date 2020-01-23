@@ -9,6 +9,7 @@ If you think a article/talk should be added, please create a new issue.
 - [A list of Haskell articles on good design, good testing](https://williamyaoh.com/posts/2019-11-24-design-and-testing-articles.html)
 - [Software Design and Architecture in Haskell](https://github.com/graninas/software-design-in-haskell/) - set of materials on how to build real-world applications in Haskell
 - [A Glossary of Functional Programming](http://degoes.net/articles/fp-glossary)
+- [The Haskell Cheatsheet](http://cheatsheet.codeslower.com) - references for syntax, concepts and advanced types
 
 ## Motivation
 
