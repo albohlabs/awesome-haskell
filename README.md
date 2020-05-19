@@ -15,6 +15,7 @@ If you think a article/talk should be added, please create a new issue.
 
 - [You are already smart enough to write Haskell](https://williamyaoh.com/posts/2019-10-05-you-are-already-smart-enough.html)
 - [State of the Haskell ecosystem](https://github.com/Gabriel439/post-rfc/blob/master/sotu.md) - the current state of the Haskell ecosystem
+- [Why Functional Programming Matters](https://www.cs.kent.ac.uk/people/staff/dat/miranda/whyfp90.pdf)
 
 ## Base
 
