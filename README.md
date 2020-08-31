@@ -31,9 +31,13 @@ If you think a article/talk should be added, please create a new issue.
 
 - [Haskell programming tips](https://wiki.haskell.org/Haskell_programming_tips) - several examples of how code can be improved
 - [Haskell Style Guide](https://kowainik.github.io/posts/2019-02-06-style-guide) - a collection of best-practices inspired by commercial and free open source Haskell libraries and applications
-- [Demystifying MonadBaseControl](https://lexi-lambda.github.io/blog/2019/09/07/demystifying-monadbasecontrol) - provide a complete survey of MonadBaseControl - how it works, how it’s designed, and how it can go wrong
 - [Generalized algebraic data types](https://en.wikibooks.org/wiki/Haskell/GADT) - learn why GADTs are useful and how to declare your own
 - [Introduction to Tagless Final](https://serokell.io/blog/tagless-final) - an introduction to tagless final encoding
+
+## Packages
+
+- [Demystifying MonadBaseControl](https://lexi-lambda.github.io/blog/2019/09/07/demystifying-monadbasecontrol) - provide a complete survey of MonadBaseControl - how it works, how it’s designed, and how it can go wrong
+- [containers: Maps, Sets, and more](https://www.fpcomplete.com/haskell/library/containers/) - implementation of some of the most commonly used containers used in programming
 
 ### Monad Transformers
 
@@ -46,6 +50,7 @@ If you think a article/talk should be added, please create a new issue.
 ## Design Patterns
 
 - [Haskell Design Patterns: The Handle Pattern](https://jaspervdj.be/posts/2018-03-08-handle-pattern.html)
+- [Comonadic builders](https://kodimensional.dev/posts/2019-03-25-comonadic-builders) Implement the Builder programming pattern using Comonad
 - [Designing Testable Components](http://felixmulder.com/writing/2019/10/05/Designing-testable-components.html) 
 - [Functional architecture is Ports and Adapters](https://blog.ploeh.dk/2016/03/18/functional-architecture-is-ports-and-adapters/) Ports are your IO code and sit at the edge of the system. The core consist of pure functions.
 - [The ReaderT Design Pattern](https://www.fpcomplete.com/blog/2017/06/readert-design-pattern) - large-scale application or library application design architecture
