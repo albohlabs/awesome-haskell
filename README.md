@@ -28,6 +28,7 @@ If you think a article/talk should be added, please create a new issue.
 - [Phantom type](https://wiki.haskell.org/Phantom_type)
 - [Foo to Bar: Naming Conventions in Haskell](https://kowainik.github.io/posts/naming-conventions)
 - [Strategic Deriving](https://kowainik.github.io/posts/deriving) - overview of the deriving mechanism
+- [Parse, don’t validate](https://lexi-lambda.github.io/blog/2019/11/05/parse-don-t-validate/) - parse inputs -> create types -> ruling out invalid states
 
 ## Advanced
 
