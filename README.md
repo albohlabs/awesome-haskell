@@ -21,13 +21,14 @@ If you think a article/talk should be added, please create a new issue.
 
 - [What I Wish I Knew When Learning Haskell](http://dev.stephendiehl.com/hask)
 - [An opinionated guide to Haskell in 2018](https://lexi-lambda.github.io/blog/2018/02/10/an-opinionated-guide-to-haskell-in-2018/) - overview of a few select parts of the Haskell workflow and the ecosystem
-- [Typeclassopedia](https://wiki.haskell.org/Typeclassopedia) - a starting point for the student of Haskell wishing to gain a firm grasp of its standard type classes
+- [Arrows Zoo](https://kowainik.github.io/posts/arrows-zoo) - overview of the arrow syntax
+- [Foo to Bar: Naming Conventions in Haskell](https://kowainik.github.io/posts/naming-conventions)
+- [Fix(ity) me](https://kowainik.github.io/posts/fixity) - terminology and functionality around operator usages
 - :speaker: [Data61 fp-course](https://www.youtube.com/watch?v=NzIZzvbplSM&list=PLly9WMAVMrayYo2c-1E_rIRwBXG_FbLBW) - Functional Programming Course
+- [Typeclassopedia](https://wiki.haskell.org/Typeclassopedia) - a starting point for the student of Haskell wishing to gain a firm grasp of its standard type classes
 - [Functors, Applicatives, And Monads In Pictures](http://adit.io/posts/2013-04-17-functors,_applicatives,_and_monads_in_pictures.html)
 - [The wizard monoid](http://www.haskellforall.com/2018/02/the-wizard-monoid.html)
 - [Phantom type](https://wiki.haskell.org/Phantom_type)
-- [Foo to Bar: Naming Conventions in Haskell](https://kowainik.github.io/posts/naming-conventions)
-- [Fix(ity) me](https://kowainik.github.io/posts/fixity) - terminology and functionality around operator usages
 - [Strategic Deriving](https://kowainik.github.io/posts/deriving) - overview of the deriving mechanism
 - [Parse, don’t validate](https://lexi-lambda.github.io/blog/2019/11/05/parse-don-t-validate/) - parse inputs -> create types -> ruling out invalid states
 
