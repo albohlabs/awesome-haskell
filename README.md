@@ -22,11 +22,12 @@ If you think a article/talk should be added, please create a new issue.
 - [What I Wish I Knew When Learning Haskell](http://dev.stephendiehl.com/hask)
 - [An opinionated guide to Haskell in 2018](https://lexi-lambda.github.io/blog/2018/02/10/an-opinionated-guide-to-haskell-in-2018/) - overview of a few select parts of the Haskell workflow and the ecosystem
 - [Typeclassopedia](https://wiki.haskell.org/Typeclassopedia) - a starting point for the student of Haskell wishing to gain a firm grasp of its standard type classes
-- :speaker: [Data61 fp-course](https://www.youtube.com/watch?v=NzIZzvbplSM&list=PLly9WMAVMrayYo2c-1E_rIRwBXG_FbLBW) - Functional Programming Course 
+- :speaker: [Data61 fp-course](https://www.youtube.com/watch?v=NzIZzvbplSM&list=PLly9WMAVMrayYo2c-1E_rIRwBXG_FbLBW) - Functional Programming Course
 - [Functors, Applicatives, And Monads In Pictures](http://adit.io/posts/2013-04-17-functors,_applicatives,_and_monads_in_pictures.html)
 - [The wizard monoid](http://www.haskellforall.com/2018/02/the-wizard-monoid.html)
 - [Phantom type](https://wiki.haskell.org/Phantom_type)
 - [Foo to Bar: Naming Conventions in Haskell](https://kowainik.github.io/posts/naming-conventions)
+- [Fix(ity) me](https://kowainik.github.io/posts/fixity) - terminology and functionality around operator usages
 - [Strategic Deriving](https://kowainik.github.io/posts/deriving) - overview of the deriving mechanism
 - [Parse, don’t validate](https://lexi-lambda.github.io/blog/2019/11/05/parse-don-t-validate/) - parse inputs -> create types -> ruling out invalid states
 
@@ -36,7 +37,7 @@ If you think a article/talk should be added, please create a new issue.
 - [Haskell Style Guide](https://kowainik.github.io/posts/2019-02-06-style-guide) - a collection of best-practices inspired by commercial and free open source Haskell libraries and applications
 - [Generalized algebraic data types](https://en.wikibooks.org/wiki/Haskell/GADT) - learn why GADTs are useful and how to declare your own
 - [Introduction to Tagless Final](https://serokell.io/blog/tagless-final) - an introduction to tagless final encoding
-- [Contravariant functors are Weird](https://sanj.ink/posts/2020-06-13-contravariant-functors-are-weird.html) 
+- [Contravariant functors are Weird](https://sanj.ink/posts/2020-06-13-contravariant-functors-are-weird.html)
 
 ## Packages
 
@@ -55,15 +56,15 @@ If you think a article/talk should be added, please create a new issue.
 
 - [Haskell Design Patterns: The Handle Pattern](https://jaspervdj.be/posts/2018-03-08-handle-pattern.html)
 - [Comonadic builders](https://kodimensional.dev/posts/2019-03-25-comonadic-builders) - Implement the Builder programming pattern using Comonad
-- [Designing Testable Components](http://felixmulder.com/writing/2019/10/05/Designing-testable-components.html) 
+- [Designing Testable Components](http://felixmulder.com/writing/2019/10/05/Designing-testable-components.html)
 - [Functional architecture is Ports and Adapters](https://blog.ploeh.dk/2016/03/18/functional-architecture-is-ports-and-adapters/) - Ports are your IO code and sit at the edge of the system. The core consist of pure functions.
 - [The ReaderT Design Pattern](https://www.fpcomplete.com/blog/2017/06/readert-design-pattern) - large-scale application or library application design architecture
 - [Three Layer Haskell Cake](https://www.parsonsmatt.org/2018/03/22/three_layer_haskell_cake.html) - application design architecture with roughly three layers
-  - [holmusk/three-layer](https://github.com/Holmusk/three-layer) - Architecture of the Haskell web applications 
+  - [holmusk/three-layer](https://github.com/Holmusk/three-layer) - Architecture of the Haskell web applications
 
 ## Algorithm
 
-- [JSON Parsing from Scratch in Haskell](https://abhinavsarkar.net/posts/json-parsing-from-scratch-in-haskell/) - Write a json parser from scratch  
+- [JSON Parsing from Scratch in Haskell](https://abhinavsarkar.net/posts/json-parsing-from-scratch-in-haskell/) - Write a json parser from scratch
 - [JSON Parsing from Scratch in Haskell: Error Reporting—Part 1](https://abhinavsarkar.net/posts/json-parsing-from-scratch-in-haskell-2/) - Tracking position with text zipper
 - [Fast Sudoku Solver in Haskell #1: A Simple Solution](https://abhinavsarkar.net/posts/fast-sudoku-solver-in-haskell-1/)
 
