@@ -39,6 +39,7 @@ If you think a article/talk should be added, please create a new issue.
 - [Generalized algebraic data types](https://en.wikibooks.org/wiki/Haskell/GADT) - learn why GADTs are useful and how to declare your own
 - [Introduction to Tagless Final](https://serokell.io/blog/tagless-final) - an introduction to tagless final encoding
 - [Contravariant functors are Weird](https://sanj.ink/posts/2020-06-13-contravariant-functors-are-weird.html)
+- :speaker: [Video series by Richard Eisenberg](https://www.youtube.com/playlist?list=PLyzwHTVJlRc9QcF_tdqc9RdxJED8Mvyh1) - share some brain-bending code, debug in public, and generally provide flashes of insight
 
 ## Packages
 
