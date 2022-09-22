@@ -20,6 +20,7 @@ If you think a article/talk should be added, please create a new issue.
 ## Base
 
 - [What I Wish I Knew When Learning Haskell](http://dev.stephendiehl.com/hask)
+- [Learn You a Haskell: A community version](https://learnyouahaskell.github.io/) - a complete introductory to intermediate guide on learning Haskell focused on beginners (an open-source community maintained version)
 - [An opinionated guide to Haskell in 2018](https://lexi-lambda.github.io/blog/2018/02/10/an-opinionated-guide-to-haskell-in-2018/) - overview of a few select parts of the Haskell workflow and the ecosystem
 - [Arrows Zoo](https://kowainik.github.io/posts/arrows-zoo) - overview of the arrow syntax
 - [Foo to Bar: Naming Conventions in Haskell](https://kowainik.github.io/posts/naming-conventions)
